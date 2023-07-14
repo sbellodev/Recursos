@@ -21,14 +21,21 @@
 - Sockets, puertos TCP IP
 - Async, Threads
 
-### Libros :books: 
+### Libros o Artículos :books: 
 - Programador Pragmático _by David Thomas & Andrew Hunt_ ⭐
 - Refractoring UI (CSS, Diseño) _by Adam Wathan & Steve Schoger_
 - Discrete Mathematics and Its Applications (Matemáticas) _by Kenneth Rosen_
-- Foundations of Higher Mathematics [github](https://github.com/stefaneng/MATH320/tree/master/week1) - Peter Fletcher
 - [Google Site-Realability Books](https://sre.google/books/)
+- ["22 artículos que impactaron mi carrera"](https://typefully.com/thiagoghisi/the-22-articles-that-impacted-my-career-in-tech-1snkXtE)
 
+### Misc
+- [Devops: 12 factores](https://12factor.net/)
+  
 ### Matemáticas (opcional)
 - [Khan Academy](https://www.khanacademy.org/math)
 - [CoDominio, Dominio](http://uapas2.bunam.unam.mx/matematicas/dominio_codominio_grafica/#:~:text=En%20estos%20t%C3%A9rminos%2C%20decimos%20entonces,conjunto%20que%20contiene%20al%20rango)
 - [Math Page](https://themathpage.com/index.html)
+- [Math is Fun](https://www.mathsisfun.com/)
+- [Drive Math](https://drive.google.com/drive/u/0/folders/1kCN-k8rlBgbVoX0GKqVhVYUJVAoAuE73)
+- Book: Foundations of Higher Mathematics [github](https://github.com/stefaneng/MATH320/tree/master/week1) - Peter Fletcher
+
